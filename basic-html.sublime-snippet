@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>${1:Title}</title>
+</head>
+<body>
+
+  ${2:content}
+
+</body>
+</html>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ht</tabTrigger>
+</snippet>
