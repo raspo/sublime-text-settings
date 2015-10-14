@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-for( var i=0; i<${1:dataset}.length; i++ ){
+for(var i=0; i<${1:dataset}.length; i++){
     ${2}
 }
 ]]></content>
