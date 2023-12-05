@@ -1,24 +1,22 @@
 # Sublime Text settings
 
-These are the settings for my text editor of choice [Sublime Text 3](http://www.sublimetext.com/).
+These are the settings for my text editor of choice [Sublime Text](http://www.sublimetext.com/).
 
-All snippets need to be moved to `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`
+All snippets need to be moved to `~/Library/Application\ Support/Sublime\ Text/Packages/User`
 
 ## Packages to install
 
-1. Package Control
-2. Babel
-3. Oceanic Next Color Scheme
-4. Theme - Soda
-5. Emmet
-6. SCSS
-7. GitGutter
-8. Pretty JSON
-9. AdvancedNewFile
-10. SideBarEnhancements
-11. SublimeLinter
-12. [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint) (requires eslint)
-13. SublimeLinter-json
+1. AdvancedNewFile
+1. Dracula Color Scheme
+1. Emmet
+1. GitGutter
+1. LSP-typescript
+1. MDX
+1. Pretty JSON
+1. Sass
+1. SideBarEnhancements
+1. SublimeLinter
+1. SublimeLinter-eslint
 
 ***
 
